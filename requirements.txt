@@ -1,0 +1,6 @@
+crewai
+chromadb
+openai
+python-dotenv
+pypdf
+pydantic
